@@ -1,0 +1,5 @@
+main/App.class
+dao/StudentDao.class
+model/Student.class
+util/HibernateUtil.class
+dao/IStudentDao.class
